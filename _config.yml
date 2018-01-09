@@ -7,7 +7,7 @@ author: pierrecharlesp                        # used in a <meta> tag & /feed.xml
 description: >                              # used in a <meta> tag & /feed.xml
 slogan: My two cents                           # used in site header, beside title
 avatar: /i/avatar2.png                       # used as portrait in site header
-banner: /i/frames_brush10.jpg                    # used as background in site header
+banner: /i/free-banner-graphic.png                    # used as background in site header
 url: http://solana.ryanlue.com              # used by plugins to generate feed.xml and sitemap.xml
 baseurl: ''                                 # prepended to all absolute filepaths
 repo: https://github.com/pierrecharlesp # used in footer
